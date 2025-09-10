@@ -10,7 +10,7 @@
 import win32com.client as win32
 import os
 import time
-from config import EMAIL, SUBJECT, API_KEY_WAPI, PROXI_USER, PROXI_PWD, PROXIES
+from conf.config import EMAIL, SUBJECT, API_KEY_WAPI, PROXI_USER, PROXI_PWD, PROXIES
 from requests import Request, Session
 from requests.exceptions import ConnectionError, Timeout, TooManyRedirects
 import json

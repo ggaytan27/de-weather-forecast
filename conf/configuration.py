@@ -1,0 +1,10 @@
+#Solo para ejemplificar el acomodo de credenciales
+PROXI_USER = 'XXXXXXXXXXXXXXXXXX'
+PROXI_PWD = 'XXXXXXXXXXXXXXXXXX'
+EMAIL = 'XXXXXXXXXXXXXXXXXX'
+SUBJECT = 'Pronostico del Clima'
+API_KEY_WAPI = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+PROXIES = {
+    'http': 'XXXXXXXXX',
+    'https': 'XXXXXXXXX'
+}
